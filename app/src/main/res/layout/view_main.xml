@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.hery.pintar.act_main">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/lblBtnTitle"
+        android:textSize="14pt"
+        android:padding="5pt"
+        android:textStyle="bold"
+        android:background="@color/LIGHT_GRAY"
+        android:textColor="@color/greydark"/>
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#FFFFFF"
+        android:id="@+id/image_home"
+        android:padding="5pt"
+        android:src="@drawable/read"
+        android:layout_weight="1"
+        android:backgroundTint="@color/LIGHT_GRAY"/>
+    <LinearLayout
+        android:padding="3pt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/LIGHT_GRAY">
+
+        <include layout="@layout/view_button_main"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

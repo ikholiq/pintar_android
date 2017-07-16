@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.hery.pintar.act_kuis_detail">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        tools:ignore="MissingConstraints">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/image_kuis_detail"
+            android:src="@drawable/pc"
+            android:padding="5sp"
+            android:scaleType="centerCrop"/>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/LIGHT_GRAY">
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:textAlignment="inherit"
+                    android:layout_margin="10sp"
+                    android:textSize="18dp"
+                    android:id="@+id/txtSoal"
+                    android:text="Pada gambar 3.23 ini desain tampilan  halaman belajar teknologi informasi dan komunikasi, Dihalaman ini menampilkan gambar perangkat dan nama, apabila user memilih salah satu gambar perangkat teknologi informasi dan komunikasi maka akan pindah kehalaman detail seperti pada gambar 3.27, dihalaman mempunyai empat materi yaitu media mengenal TIK,hardware,software dan media jaringan, jika user digeser maka akan pindah materi." />
+            </ScrollView>
+        </LinearLayout>
+        <LinearLayout
+            android:paddingTop="15dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="bottom"
+            android:background="@color/LIGHT_GRAY"
+            style="@style/AppTheme">
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+                <Button
+                    android:layout_margin="5sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/optA"
+                    android:text="A"
+                    android:layout_weight="1"
+                    android:background="@color/greydark"/>
+                <Button
+                    android:layout_margin="5sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/optC"
+                    android:text="C"
+                    android:layout_weight="1"
+                    android:background="@color/greydark"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+                <Button
+                    android:layout_margin="5sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/optB"
+                    android:text="B"
+                    android:layout_weight="1"
+                    android:background="@color/greydark"/>
+                <Button
+                    android:layout_margin="5sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/optD"
+                    android:text="D"
+                    android:layout_weight="1"
+                    android:background="@color/greydark"/>
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
+

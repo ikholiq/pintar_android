@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<records>
+   <materi>
+      <index>1</index>
+      <judul>Pengenalan Hardware (Perangkat Keras)</judul>
+      <isi>Suatu sistem komputer adalah uatu komponen sistem pengolahan informasi yang melaksanakan masukan(input),pengolahan,keluaran (output), penyimpanan (storage) dan fungsi pengendalian. Komponen perangkat keras didalam suatu komputer meliputi alat keluaran dan  masukan, unit pengolahan pusat (CPU), dan penyimpan utama dan sekunder. Ada tiga kategori komputer utama:komputer mikro, midrange komputer dan mainframe komputer.
+Ke seluruhan rangkaian dan bagian terpisah dari sistem komputer tersebut dikenal dengan perangkat keras(Hardware). Ditinjau dari keberadaan dan sifat penggunaannya, perangkat keras teknologi informasi dapat dibedakan menjadi: (a)perangkat  dekstop (permanen diatas meja) dan b) perangkat mobil/bergerak (mobile). Beberapa macam perangkat keras komputer di antaranya adalah CPU, monitor, mouse, keyboard, printer, speaker, dan scanner. Perangkat-perangkat tersebut mempunyai fungsi tertentu, misalnya sebagai alat input, alat proses, media penyimpanan data, atau alat output.</isi>
+      <image>teknologi</image>
+   </materi>
+
+   <materi>
+      <index>2</index>
+      <judul>Input Device</judul>
+      <isi>Input device merupakan perangkat komputer yang memiliki fungsi sebagai input atau masukan, baik itu perintah maupun koneksi kedalam sistem komputer. Ada beberapa perangkat yang masuk kategori input device, diantaranya adalah:<br/>
+Keyboard : berfungsi untuk mengetik huruf an angka serta perintah pada komputer<br/>
+Mouse : berfungsi untuk menjalankan perintah klik kiri dan klik kanan, menggerakkan pointer, serta menjalankan perintah dengan klik<br/>
+Touchpad : Touchpad berfungsi layaknya mouse, touchpad ini biasanya sebagai pengganti mouse dan biasa di jumpai pada laptop.<br/>
+Masih banyak lagi perangkat lainya seperti joystik, scanner, voice recognizer, dan lain-lain.</isi>
+      <image>inputdevice</image>
+   </materi>
+
+   <materi>
+      <index>3</index>
+      <judul>Proses Device</judul>
+      <isi>Perangkat ini merupakan perangkat yang berhubungan dengan fungsi pemrosesan dalam komputer itu sendiri.<br/>
+CPU / Processor : merupakan singkatan dari central processing unit atau yang juga dikenal dengan istilah processor adalah bagian terpenting yang menjalankan sistem komputer. Bisa di ibaratkan sebagai otak pada komputer.<br/>
+Memori / RAM (random access Memory) :  Memori merupakan perangkat yang menyimpan proses kinerja komputer untuk sementara. Sehingga membuat pengaksesan data yang sama lebih cepat. Maka dari itu RAM besar berpegaruh pada kecepatan komputer.<br/>
+Motherboard :  Merupakan perangkat yang menghubungkan perangkat keras komputer antara satu dan yang lain.<br/>
+VGA Card (Video Graphic Array) : Biasa juga disebut kartu grafis yang berfugsi untuk memberikan tampilan berkualitas pada layar komputer. Biasanya setiap mainbord sudah memiliki VGA bawaan, namun untuk kualitas beresolusi tinggi yang jernih VGA Card sangat diperlukan.<br/>
+Power Supply:  berfungsi untuk menghantarkan aruslistrik sebagai pengontrol besarnya voltasi yang masuk ke komputer.<br/>
+Casing Unit: Merupakan tempat dimana semua perangkat disatukan.<br/>
+</isi>
+      <image>prosesdevice</image>
+   </materi>
+
+   <materi>
+      <index>4</index>
+      <judul>Proses Device</judul>
+      <isi>Output device merupakan perangkat komputer yang memberikan output/keluaran, baik berupa tampilan visual, suara, maupun tampilan cetak, dan lain sebagainya. Adapun yang termasuk output device adalah:<br/>
+
+Monitor/ Lcd Monitor : berfungsi untuk menampilkan proses komputer dalam bentuk visual/ gambar<br/>
+Speaker : befungsi untuk mengeluarkan suara dari komputer<br/>
+Printer : untuk mencetak pada media kertas, dan sebagainya</isi>
+      <image>outputdevice</image>
+   </materi>
+
+   <materi>
+      <index>5</index>
+      <judul>Storage Device</judul>
+      <isi>Peragkat keras komputer yang berfungsi sebagai media penyimpanan untuk menyimpan data-data komputer.<br/>
+Hardisk : Perangkat penyimpanan utama pada komputer, biasanya tampil di komputer dengan sebutad Drive :C, Drive D, dan seterusnya. Tergantung pembagian partisinya.<br/>
+Floppy Disk : Biasa dikenal dengan sebutan disket, merupakan penyimpanan luar pertama, sangat populer semasa sitem DOS, lotus123, sistem komputer jaman dulu. Sekarang sudah jarang dijumpai dan mulai tergantikan oleh CD/DVD dan Flashdisk.<br/>
+CD/DVD : Penyimpanan ekternal berbentuk piringan yang bisa menyimpan data.<br/>
+Flashdisk : Perangkat penyimpanan eksternal yang saatini paling banyak digunakan karena bisa menyimpan dan menghapus data.
+</isi>
+      <image>storagedevice</image>
+   </materi>
+
+</records>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<records>
+
+   <materi>
+      <index>1</index>
+      <judul>Pengertian Jaringan Komputer</judul>
+      <isi>aringan komputer merupakan hubungan komputer satu sama lain dengan menggunakan protokol komunikasi melalui media transmisi, dapat menggunakan hardware dan software bersama-sama sehingga dapat saling berbagi data, proses, informasi, dan melakukan komunikasi. Jaringan komputer memberikan pelayanan yang lebih cepat, dinamis, dan menjanjikan.<br/>
+Jaringan komputer dapat mempercepat pendistribusian data dan informasi untuk menunjang keputusan. Para pengguna jaringan komputer yang terhubung dengan internet dapat saling berkomunikasi walaupun berbeda negara. Begitu
+juga pada jaringan komputer lokal. Jaringan komputer memungkinkan penggunaan fasilitas bersama-sama seperti printer, harddisk, scanner, program aplikasi tertentu, dan perangkat lainnya. Komputer utama (server) dihubungkan ke komputer lain (client) menggunakan jaringan kabel (wired) maupun tanpa kabel (wireless), sehingga fasilitasnya dapat digunakan oleh komputer lain.</isi>
+      <image>jaringan</image>
+   </materi>
+
+   <materi>
+      <index>2</index>
+      <judul>Jenis Jaringan Komputer</judul>
+      <isi>Dalam mempelajari macam-macam jaringan komputer terdapat dua klasifikasi yang sangat penting yaitu teknologi transmisi dan jarak. Secara garis besar, terdapat dua jenis teknologi transmisi yaitu jaringan broadcast dan jaringan point-to-point.<br/>
+Jaringan broadcast memiliki saluran komunikasi tunggal yang dipakai bersama-sama oleh semua mesin yang ada pada jaringan. Pesan-pesan berukuran kecil, disebut paket, yang dikirimkan oleh suatu mesin akan diterima oleh mesin-mesin lainnya. Field alamat pada sebuah paket berisi keterangan tentang kepada siapa paket tersebut ditujukan. Saat menerima paket, mesin akan mencek field alamat. Bila paket tersebut ditujukan untuk dirinya, maka mesin akan memproses paket itu, bila paket ditujukan untuk mesin lainnya, mesin tersebut akan mengabaikannya.<br/>
+Jaringan point-to-point terdiri dari beberapa koneksi pasangan individu dari mesin-mesin. Untuk mengirim paket dari sumber ke suatu tujuan, sebuah paket pada jaringan jenis ini mungkin harus melalui satu atau lebih mesin-mesin perantara. Seringkali harus melalui banyak route yang mungkin berbeda jaraknya. Karena itu algoritma route memegang peranan penting pada jaringan point-to-point.<br/>
+Pada umumnya jaringan yang lebih kecil dan terlokalisasi secara geografis cenderung memakai broadcasting, sedangkan jaringan yang lebih besar menggunakan point-to-point.</isi>
+      <image>jenisjaringan</image>
+   </materi>
+
+   <materi>
+      <index>3</index>
+      <judul>Local Area Network (LAN) </judul>
+      <isi>Local Area Network (LAN), merupakan jaringan milik pribadi di dalam sebuah gedung atau kampus yang berukuran sampai beberapa kilometer. LAN seringkali digunakan untuk menghubungkan komputer-komputer pribadi dan workstation dalam kantor suatu perusahaan atau pabrik-pabrik untuk memakai bersama sumberdaya (resouce, misalnya printer) dan saling bertukar informasi.<br/>
+LAN seringkali menggunakan teknologi transmisi kabel tunggal. LAN tradisional beroperasi pada kecepatan mulai 10 sampai 100 Mbps (mega bit/detik) dengan delay rendah (puluhan mikro second) dan mempunyai faktor kesalahan yang kecil. LAN-LAN modern dapat beroperasi pada kecepatan yang lebih tinggi, sampai ratusan megabit/detik.
+</isi>
+      <image>lan</image>
+   </materi>
+
+   <materi>
+      <index>4</index>
+      <judul>Metropolitan Area Network (MAN) </judul>
+      <isi>Metropolitan Area Network (MAN) pada dasarnya merupakan versi LAN yang berukuran lebih besar dan biasanya memakai teknologi yang sama dengan LAN. MAN dapat mencakup kantor-kantor perusahaan yang berdekatan dan dapat dimanfaatkan untuk keperluan pribadi (swasta) atau umum. MAN biasanya mampu menunjang data dan suara, dan bahkan dapat berhubungan dengan jaringan televisi kabel. MAN hanya memiliki sebuah atau dua buah kabel dan tidak mempunyai elemen switching, yang berfungsi untuk mengatur paket melalui beberapa output kabel. Adanya elemen switching membuat rancangan menjadi lebih sederhana.<br/>
+Alasan utama memisahkan MAN sebagai kategori khusus adalah telah ditentukannya standar untuk MAN, dan standar ini sekarang sedang diimplementasikan. Standar tersebut disebut DQDB (Distributed Queue Dual Bus) atau 802.6 menurut standar IEEE. DQDB terdiri dari dua buah kabel unidirectional dimana semua komputer dihubungkan, seperti ditunjukkan pada gambar 1.1 Setiap bus mempunyai sebuah head–end, perangkat untuk memulai aktivitas transmisi. Lalulintas yang menuju komputer yang berada di sebelah kanan pengirim menggunakan bus bagian atas.
+</isi>
+      <image>man</image>
+   </materi>
+
+
+  <materi>
+      <index>5</index>
+      <judul>Wide Area Network (WAN) </judul>
+      <isi>Wide Area Network (WAN) mencakup daerah geografis yang luas, seringkali mencakup sebuah negara atau benua.WAN terdiri dari kumpulan mesin yang bertujuan untuk menjalankan program-program aplikasi.<br/>
+Kita akan mengikuti penggunaan tradisional dan menyebut mesin-mesin ini sebagai host. Istilah End System kadang-kadang juga digunakan dalam literatur. Host dihubungkan dengan sebuah subnet komunikasi, atau cukup disebut subnet. Tugas subnet adalah membawa pesan dari host ke host lainnya, seperti halnya sistem telepon yang membawa isi pembicaraan dari pembicara ke pendengar. Dengan memisahkan aspek komunikasi murni sebuah jaringan (subnet) dari aspek-aspek aplikasi (host), rancangan jaringan lengkap menjadi jauh lebih sederhana. Pada sebagian besar WAN, subnet terdiri dari dua komponen, yaitu kabel transmisi dan elemen switching. Kabel transmisi (disebut juga sirkuit, channel, atau trunk) memindahkan bit-bit dari satu mesin ke mesin lainnya.<br/>
+Element switching adalah komputer khusus yang dipakai untuk menghubungkan dua kabel transmisi atau lebih. Saat data sampai ke kabel penerima, element switching harus memilih kabel pengirim untuk meneruskan pesan-pesan tersebut. Sayangnya tidak ada terminologi standart dalam menamakan komputer seperti ini. Namanya sangat bervariasi disebut paket switching node, intermidiate system, data switching exchange dan sebagainya. 
+</isi>
+      <image>wan</image>
+   </materi>
+
+
+</records>

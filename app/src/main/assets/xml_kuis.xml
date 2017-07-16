@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<records>
+   <kuis>
+      <index>1</index>
+      <question>Dibawah ini yang bukan termasuk elemen-elemen komputer adalah</question>
+      <answer>Harddisk</answer>
+      <option1>Software</option1>
+      <option2>Harddisk</option2>
+      <option3>Brainware</option3>
+      <option4>Hardware</option4>
+      <image>komputer</image>
+   </kuis>
+
+   <kuis>
+      <index>2</index>
+      <question>Berikut ini yang termasuk perangkat output adalah</question>
+      <answer>Monitor</answer>
+      <option1>Monitor</option1>
+      <option2>Mouse</option2>
+      <option3>Keyboard</option3>
+      <option4>CPU</option4>
+      <image>inputdevice</image>
+   </kuis>
+
+   <kuis>
+      <index>3</index>
+      <question>Apa nama program office yang masuk dalam kategori Microsoft Office yang digunakan untuk presentasi?</question>
+      <answer>Ms.Power Point</answer>
+      <option1>Ms.Power Point</option1>
+      <option2>Ms.Excel</option2>
+      <option3>Ms.Word</option3>
+      <option4>Ms.Presentation</option4>
+      <image>software</image>
+   </kuis>
+
+   <kuis>
+      <index>4</index>
+      <question>Penggunaan formula pada Ms.Excel untuk menjumlahkan nilai dari beberapa cell sekaligus adalah : </question>
+      <answer>=SUM(cell1:cell2)</answer>
+      <option1>=SUM(cell1:cell2)</option1>
+      <option2>=TOT(cell1+cell2)</option2>
+      <option3>=ALL(cell1:cell2)</option3>
+      <option4>=ALL(cell1+cell2)</option4>
+      <image>software</image>
+   </kuis>
+
+   <kuis>
+      <index>5</index>
+      <question>Perangkat komputer yang berfungsi untuk mengubah sinyal digital menjadi sinyal suara adalah </question>
+      <answer>Sound Card</answer>
+      <option1>Bluetooth</option1>
+      <option2>Sound Card</option2>
+      <option3>VGA Card</option3>
+      <option4>Wifi Card</option4>
+      <image>internet</image>
+   </kuis>
+
+   <kuis>
+      <index>6</index>
+      <question>Perangkat di bawah ini dapat digunakan untuk mengakses internet, kecuali. </question>
+      <answer>VGA Card</answer>
+      <option1>Bluetooth</option1>
+      <option2>LAN Card</option2>
+      <option3>VGA Card</option3>
+      <option4>Wifi Card</option4>
+      <image>jaringan</image>
+   </kuis>
+
+   <kuis>
+      <index>7</index>
+      <question>Sistem jaringan milik pribadi di dalam sebuah gedung atau kampus y adalah </question>
+      <answer>LAN</answer>
+      <option1>LAN</option1>
+      <option2>WAN</option2>
+      <option3>MAN</option3>
+      <option4>Internet</option4>
+      <image>jenisjaringan</image>
+   </kuis>
+
+   <kuis>
+      <index>8</index>
+      <question>Perangkat yang tidak dibutuhkan dalam membangun sebuah jaringan komputer adalah </question>
+      <answer>Televisi</answer>
+      <option1>Komputer</option1>
+      <option2>Televisi</option2>
+      <option3>Card Network</option3>
+      <option4>Hub</option4>
+      <image>komputeruser</image>
+   </kuis>
+
+   <kuis>
+      <index>9</index>
+      <question>Yang termasuk jaringan WAN adalah </question>
+      <answer>jaringan komputer dalam sebuah provinsi</answer>
+      <option1>jaringan komputer dalan gedung sekolah</option1>
+      <option2>jaringan komputer dalam sebuah provinsi</option2>
+      <option3>jaringan komputer antar benua</option3>
+      <option4>jaringan komputer antara kau dan aku</option4>
+      <image>jaringan</image>
+   </kuis>
+
+   <kuis>
+      <index>10</index>
+      <question>Contoh dari penggunaan jaringan komputer sharing data adalah</question>
+      <answer>tukar menukar dokumen</answer>
+      <option1>tukar menukar komputer</option1>
+      <option2>tukar menukar jaringan</option2>
+      <option3>tukar menukar dokumen</option3>
+      <option4>Salah Semua</option4>
+      <image>prosesdevice</image>
+   </kuis>
+
+   <!--
+      <kuis>
+         <index>5</index>
+         <question></question>
+         <answer></answer>
+         <option1></option1>
+         <option2></option2>
+         <option3></option3>
+         <option4></option4>
+         <image></image>
+      </kuis>
+   -->
+</records>

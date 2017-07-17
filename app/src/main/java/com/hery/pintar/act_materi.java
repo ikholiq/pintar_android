@@ -50,6 +50,7 @@ public class act_materi extends AppCompatActivity {
         @Override
         public Fragment getItem(int position) {
             //mViewPager.removeAllViews();
+            parameter.LAST_INDEX = position;
 
             switch (position){
                 case 0:
@@ -87,6 +88,12 @@ public class act_materi extends AppCompatActivity {
             }
             return null;
         }
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+
     }
 
 }
